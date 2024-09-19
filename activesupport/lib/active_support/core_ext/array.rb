@@ -7,3 +7,5 @@ require "active_support/core_ext/array/extract"
 require "active_support/core_ext/array/extract_options"
 require "active_support/core_ext/array/grouping"
 require "active_support/core_ext/array/inquiry"
+require "active_support/core_ext/array/to_active_record_relation"
+
